@@ -1,0 +1,14 @@
+div .h1{
+    padding: 15px;
+    text-align: center;
+}
+.tableContent{
+    margin-top: 60px;
+    overflow-x: auto;
+}
+
+.pagination{
+    overflow-x: auto;
+}
+
+
